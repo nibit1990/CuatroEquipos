@@ -7,6 +7,10 @@ public class Equipo {
 
     //Atributos
     int id;
+
+
+
+    
     String equipo ;
     int puntos ;
 
